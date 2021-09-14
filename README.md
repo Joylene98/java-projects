@@ -1,6 +1,5 @@
 # Sender Project
 
-About the sender project:
 The sender project involves implementing complementary parts of a simple data link protocol. 
 The Sender program receives a message on its standard input (System.in equivalent in Java) and 
 writes the encoded frames on its standard output (System.out in Java).
