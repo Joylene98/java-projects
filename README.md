@@ -1,4 +1,4 @@
-# java-projects
+# Sender Project
 Java Instructions To Compiling Sender File 
 
 To compile the message sender file:
