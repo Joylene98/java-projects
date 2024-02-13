@@ -15,3 +15,8 @@ Then you can run the bash script provided for sender.
 To compile the message sender main file:
 You need to enter the argument without the quotes "javac MessageSenderMain.java"
 After you compile, you should see a class file provided for MessageSenderMain.
+
+# Car Park Project 
+
+The car park project is an application designed to simulate activities typically performed in a car park. 
+It includes parking and removing cars from the facility and prevents further parking when the car park reaches its maximum capacity.
